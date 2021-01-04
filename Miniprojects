@@ -1,0 +1,84 @@
+pip install pyperclip
+
+
+import pyperclip
+pyperclip.copy("hello Ptyhon")
+pyperclip.paste()
+
+pip install howdoi
+
+
+howdi how to use stack in python
+
+pip install wikipedia
+
+import wikipedia
+query=wikipedia.page("chatrapati shivaji Maharaj")
+print(query.summary)
+
+pip install pyqrcode
+
+
+import pyqrcode
+
+def qrcode():
+    q=pyqrcode.create(input())
+    q.png('qrcode.png',scale=6)
+    print("Qr code generated")
+    
+if __name__=='__main__':
+    qrcode()
+
+
+url extrator
+
+
+from urlib.request import urlopen
+
+page=urlopen("https://techieempire.tech")
+print(page.headers)
+
+url sourcecode
+
+from urlib.request import urlopen
+page=urlopen("https://techieempire.tech")
+
+sourcecode=page.read()
+print(sourcecode)
+
+
+url shortner
+
+pip install pyshorteners
+
+
+import pyshorteners
+url=input("Enter the url:")
+shortener=pyshorteners.Shortener()
+a=shortener.tinyurl.short(url)
+print(a)
+
+Google search
+
+pip install google
+
+from googlesearch import search
+query="Chatrapati Shivaji Maharaj"
+for i in search(query,start=0,pause=2):
+    print(i)
+
+Pocket Dictionary
+
+pip install pydictionary 
+
+
+from PyDictionary import PyDictionary
+dictionary=PyDictionary()
+
+print(dictionary.meaning("indentation"))
+
+
+
+
+
+
