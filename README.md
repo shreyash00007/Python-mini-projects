@@ -7,3 +7,7 @@ Python mini projects
 pip install pyperclip
 
 ```
+```python 
+pip install howdoi
+
+```
