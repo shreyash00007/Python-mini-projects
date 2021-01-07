@@ -9,5 +9,7 @@ pip install pyperclip
 ```
 ```python 
 pip install howdoi
-
+```
+```pyhton
+pip install pyqrcode
 ```
