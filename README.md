@@ -13,3 +13,6 @@ pip install howdoi
 ```pyhton
 pip install pyqrcode
 ```
+```python
+pip install pyshorteners
+```
