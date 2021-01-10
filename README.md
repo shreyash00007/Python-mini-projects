@@ -16,3 +16,4 @@ pip install pyqrcode
 ```python
 pip install pyshorteners
 ```
+```python
