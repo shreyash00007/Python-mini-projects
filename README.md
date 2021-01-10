@@ -17,3 +17,5 @@ pip install pyqrcode
 pip install pyshorteners
 ```
 ```python
+pip install google
+```
