@@ -19,3 +19,6 @@ pip install pyshorteners
 ```python
 pip install google
 ```
+```python
+pip install pydictionary 
+```
