@@ -11,6 +11,7 @@ Makes copy & paste function in the console
 ```python 
 pip install howdoi
 ```
+It gives how to do guide
 ```pyhton
 pip install pyqrcode
 ```
