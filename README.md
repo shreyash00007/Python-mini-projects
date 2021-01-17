@@ -15,6 +15,7 @@ It gives how to do guide
 ```pyhton
 pip install pyqrcode
 ```
+It makes a qr code of char
 ```python
 pip install pyshorteners
 ```
