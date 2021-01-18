@@ -19,6 +19,7 @@ It makes a qr code of char
 ```python
 pip install pyshorteners
 ```
+It makes big urls short
 ```python
 pip install google
 ```
