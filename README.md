@@ -23,6 +23,7 @@ It makes big urls short
 ```python
 pip install google
 ```
+It uses google search engine for seraching
 ```python
 pip install pydictionary 
 ```
