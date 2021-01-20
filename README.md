@@ -27,3 +27,4 @@ It uses google search engine for seraching
 ```python
 pip install pydictionary 
 ```
+It uses a dictionary to find meaning of words 
