@@ -6,7 +6,7 @@ pyperclip.copy("hello Ptyhon")
 pyperclip.paste()
 
 pip install howdoi
-
+____________________
 
 howdi how to use stack in python
 
