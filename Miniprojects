@@ -11,6 +11,7 @@ ____________________
 howdi how to use stack in python
 
 pip install wikipedia
+_____________________
 
 import wikipedia
 query=wikipedia.page("chatrapati shivaji Maharaj")
