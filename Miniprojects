@@ -18,7 +18,7 @@ query=wikipedia.page("chatrapati shivaji Maharaj")
 print(query.summary)
 
 pip install pyqrcode
-
+_____________________
 
 import pyqrcode
 
