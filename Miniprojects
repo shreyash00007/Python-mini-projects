@@ -32,7 +32,8 @@ if __name__=='__main__':
 
 
 url extrator
-
+It is available in the python 3.0 
+__________________________
 
 from urlib.request import urlopen
 
