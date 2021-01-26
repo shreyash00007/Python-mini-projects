@@ -41,6 +41,8 @@ page=urlopen("https://techieempire.tech")
 print(page.headers)
 
 url sourcecode
+It is available in the python 3.0 
+___________________________
 
 from urlib.request import urlopen
 page=urlopen("https://techieempire.tech")
