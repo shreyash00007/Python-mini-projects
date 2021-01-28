@@ -65,6 +65,7 @@ print(a)
 Google search
 
 pip install google
+_______________________
 
 from googlesearch import search
 query="Chatrapati Shivaji Maharaj"
