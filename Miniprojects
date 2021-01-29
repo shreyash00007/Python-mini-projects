@@ -74,8 +74,8 @@ for i in search(query,start=0,pause=2):
 
 Pocket Dictionary
 
-pip install pydictionary 
-
+pip install pydictionary
+_________________________
 
 from PyDictionary import PyDictionary
 dictionary=PyDictionary()
