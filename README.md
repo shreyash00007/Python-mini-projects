@@ -1,7 +1,7 @@
 # Python-mini-projects
   Python mini projects
 
-### 1. Libraries required are
+### Libraries required are
 
 ```python
 pip install pyperclip
