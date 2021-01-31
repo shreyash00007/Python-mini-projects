@@ -7,7 +7,7 @@
 pip install pyperclip
 
 ```
-Makes copy & paste function in the console 
+>Makes copy & paste function in the console 
 ```python 
 pip install howdoi
 ```
