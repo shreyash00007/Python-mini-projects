@@ -11,7 +11,7 @@ pip install pyperclip
 ```python 
 pip install howdoi
 ```
-It gives how to do guide
+>It gives how to do guide
 ```pyhton
 pip install pyqrcode
 ```
