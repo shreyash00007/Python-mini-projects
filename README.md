@@ -15,7 +15,7 @@ pip install howdoi
 ```pyhton
 pip install pyqrcode
 ```
-It makes a qr code of char
+>It makes a qr code of char
 ```python
 pip install pyshorteners
 ```
