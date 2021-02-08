@@ -19,7 +19,7 @@ pip install pyqrcode
 ```python
 pip install pyshorteners
 ```
-It makes big urls short
+>It makes big urls short
 ```python
 pip install google
 ```
