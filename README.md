@@ -23,7 +23,7 @@ pip install pyshorteners
 ```python
 pip install google
 ```
-It uses google search engine for seraching
+>It uses google search engine for seraching
 ```python
 pip install pydictionary 
 ```
