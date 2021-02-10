@@ -27,4 +27,4 @@ pip install google
 ```python
 pip install pydictionary 
 ```
-It uses a dictionary to find meaning of words 
+>It uses a dictionary to find meaning of words 
